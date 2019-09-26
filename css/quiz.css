@@ -1,0 +1,24 @@
+#submit, #reset {
+    font-size: 40px;
+    background-color: brown;
+    color: #fff;
+    padding: 20px;
+    padding-top: 20px;
+    cursor: pointer;
+    font-family: 'Smokum', cursive;
+    display: block;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+#submit:hover, #reset:hover {
+    background-color: rgb(139, 122, 91);
+}
+
+.answers {
+    margin-bottom: 20px;
+}
+
+.answers label {
+    display: block;
+}
